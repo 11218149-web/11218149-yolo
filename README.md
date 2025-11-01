@@ -21,3 +21,8 @@
 <img width="1382" height="668" alt="Image" src="https://github.com/user-attachments/assets/1106fe02-1c68-4b99-946e-840f00c8ec00" />
 
 ##步驟三:執行圖中程序開始訓練
+
+<img width="1195" height="35" alt="Image" src="https://github.com/user-attachments/assets/7a37049e-5732-441e-81a6-749eb82d162a" />
+
+##步驟四:訓練完後輸入程式後跑出 runs/detect/exp5
+
