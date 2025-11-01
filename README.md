@@ -18,3 +18,6 @@
 
 執行完上面的步驟後，還要再補執行一個程式才算完成
 
+<img width="1382" height="668" alt="Image" src="https://github.com/user-attachments/assets/1106fe02-1c68-4b99-946e-840f00c8ec00" />
+
+##步驟三:執行圖中程序開始訓練
