@@ -13,3 +13,8 @@
 <img width="896" height="503" alt="Image" src="https://github.com/user-attachments/assets/0969531b-7eaa-4e9e-b90e-41abb070a465" />
 
 ##第二步:去github下載yolov5
+
+<img width="927" height="223" alt="Image" src="https://github.com/user-attachments/assets/bed6c78d-53a9-4b62-931c-aae278d2eb2e" />
+
+執行完上面的步驟後，還要再補執行一個程式才算完成
+
