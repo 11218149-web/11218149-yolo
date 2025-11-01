@@ -30,4 +30,4 @@
 
 ##最後一步:把上一步跑出的runs/detect/exp5，在配上圖中的程式就會跑出我們要的東西了
 
-
+<img width="1111" height="597" alt="Image" src="https://github.com/user-attachments/assets/01b2f447-5c10-4149-9d85-a1e1a10a635f" />
