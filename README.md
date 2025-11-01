@@ -26,3 +26,8 @@
 
 ##步驟四:訓練完後輸入程式後跑出 runs/detect/exp5
 
+<img width="1748" height="280" alt="Image" src="https://github.com/user-attachments/assets/23c70982-8cd0-4afc-9cd3-0a8f4ca1f1dd" />
+
+##最後一步:把上一步跑出的runs/detect/exp5，在配上圖中的程式就會跑出我們要的東西了
+
+
