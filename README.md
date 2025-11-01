@@ -7,3 +7,5 @@
 #第一步:變更執行階段
 
 <img width="703" height="645" alt="Image" src="https://github.com/user-attachments/assets/6450481d-ca92-4d72-8d1e-5de7e541b143" />
+
+接著輸入!nvidia-smi 得到下圖
